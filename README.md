@@ -1,7 +1,7 @@
 # Water-Quality-Monitoring-Using-Machine-Learning-And-Iot
 Water-Quality-Monitoring-Using-Machine-Learning-And-Iot
 
-![Fork this](https://media.giphy.com/media/h6x0ROdzJy4TKyUu1b/giphy.gif)
+![Fork](https://media.giphy.com/media/h6x0ROdzJy4TKyUu1b/giphy-downsized-large.gif?cid=790b76112fae8a6f01617e97b4aa0922fb883cf2bbe3ce69&rid=giphy-downsized-large.gif&ct=g)
 
 
 
