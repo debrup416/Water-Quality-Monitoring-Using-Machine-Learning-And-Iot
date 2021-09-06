@@ -1,7 +1,7 @@
 # Water-Quality-Monitoring-Using-Machine-Learning-And-Iot
 Water-Quality-Monitoring-Using-Machine-Learning-And-Iot
 
-<a href="https://github.com/debrup416"><img  src="https://media.giphy.com/media/h6x0ROdzJy4TKyUu1b/giphy.gif" alt=" Fork this repo" data-canonical-></a>
+![Fork this](https://media.giphy.com/media/h6x0ROdzJy4TKyUu1b/giphy.gif)
 
 
 
